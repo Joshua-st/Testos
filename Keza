@@ -1,0 +1,4 @@
+A = "loves"
+B = "Alliance"
+
+print("Ange " + A + ' ' + B)
